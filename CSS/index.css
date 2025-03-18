@@ -450,4 +450,9 @@ p i{
 .footer p span{
     color: var(--main-color);
 }
+@media (max-width: 767px){
+    .footer p{
+        font-size: 8px;
+    }
+}
 /* End footer */
